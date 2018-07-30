@@ -8,5 +8,4 @@ def crazy_strings(word, second_word)
   "Friends" = second_word.swapcase
 end
 
-puts word
-puts second_word
+puts crazy_strings(word, second_word)
